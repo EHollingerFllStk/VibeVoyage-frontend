@@ -5,7 +5,7 @@ export default function Header(props) {
   return (
     <nav className="nav">
       <Link to="/">
-        <div>VibeVoyage Practice App</div>
+        <div>VibeVoyage</div>
       </Link>
     </nav>
   )
