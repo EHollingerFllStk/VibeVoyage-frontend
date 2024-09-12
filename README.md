@@ -1,70 +1,58 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# VibeVoyage![Copy of VibeVoyageIndexArt (5 × 7 in)](https://user-images.githubusercontent.com/77770242/194466134-bb88c046-054e-41aa-b68f-bf0b3148e655.gif)
 
-## Available Scripts
+VibeVoyage is not just a tool but an experience. This app enables the user to choose to register and login to the app's notes page or find relaxation through the meditation page. Visitors do not have to login to benefit from the guided meditations on the Meditation Page. Registered users have an opportunity to store and track their health goals, notes, and tasks to improve overall physical and mental health. This app is built with the MERN stack, providing registered users the ability to create, edit and delete their notes and retrieve them later. Additionally, the user can be sure their information is protected with OAuth built in to register and login allowing seemless interaction throughout the site.
 
-In the project directory, you can run:
+## Table of Contents
+* [Technologies Used](#technologiesused)
+* [Features](#features)
+* [Design](#design)
+* [Project Next Steps](#nextsteps)
+* [Deployed App](#deployment)
+* [Our Github Repositories:](#github)
+* [About Team Panther.js](#team)
 
-### `npm start`
+## <a name="technologiesused"></a>Technologies Used
+- MERN
+- Heroku
+- Netlify
+- Video Embedding  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## <a name="features"></a>Features
+- Users can enter health notes.
+- Users can edit thier entries and see them displayed.  
+- Users can delete thier entries.
+- Users benefit from the relaxation/meditation page.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Trello Planning
+[Team Panther.js Trello Board](https://trello.com/b/X4KtfK7j/vibevoyage)
 
-### `npm test`
+## Wireframe
+[Team Panther.js Wireframe](https://trello.com/1/cards/6335ab1d9ef33e030b3094ec/attachments/6335ab1d9ef33e030b309506/previews/6335ab1e9ef33e030b309513/download/image.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
+![Screen Shot 2022-10-07 at 12 12 56 AM](https://user-images.githubusercontent.com/77770242/194466652-f2492474-ac4d-4513-aac1-fcffa3b3abea.png)
+![Screen Shot 2022-10-07 at 12 13 21 AM](https://user-images.githubusercontent.com/77770242/194466669-67071d3a-2237-4806-a301-087defa70d61.png)
+![Screen Shot 2022-10-07 at 12 14 01 AM](https://user-images.githubusercontent.com/77770242/194466851-574dd65c-627b-4c00-868a-5be8f3201682.png)
 
-### `npm run build`
+![Screen Shot 2022-10-07 at 12 13 37 AM](https://user-images.githubusercontent.com/77770242/194466685-e32b910f-65eb-4416-83fa-d25e8dec1370.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screen Shot 2022-10-07 at 12 14 35 AM](https://user-images.githubusercontent.com/77770242/194466693-2782da40-7ecb-4a9b-bdbd-e647aa33ade4.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## <a name="nextsteps"></a>Project Next Steps
+- Users will be able to access Spotify API for calming music
+- App will be mobile responsive
+## <a name="deployment"></a>Deployed Links
+- [Backend(hosted on Heroku)](https://vibe-voyage.herokuapp.com/notes/)  
+- [Frontend(hosted on Netlify)](https://vibe-voyage.netlify.app/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## <a name="github"></a>Our GitHub Repositories
+- [Frontend](https://github.com/brandonhernandez304/VibeVoyage-frontend)
+- [Backend](https://github.com/brandonhernandez304/VibeVoyage-backend)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Works Cited:
+Stack Overflow and MDN
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## <a name="team"></a>About Team Panther.js
+We are a group of passionate and innovative students that came together for a group project at General Assembly. We want to bring the core values of self-care and healthy lifestyle through the skills we have acquired since beginning our cohort in August of 2022. We hope you enjoy the product we have brought to you, please feel free to spread the vibes.
